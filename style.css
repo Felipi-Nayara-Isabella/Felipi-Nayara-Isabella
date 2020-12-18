@@ -1,0 +1,68 @@
+p{
+
+   color: White;
+
+   background-color: pink;
+
+ }
+ h3{
+
+   color: Pink;
+
+   background-color: white;
+
+ }
+ul{
+
+   color: white;
+
+ }
+
+h4{
+
+   color: White;
+
+   background-color: pink;
+
+ }
+
+a:hover{ 
+  
+  background-color: white;
+
+}
+
+ h1{
+
+   color: pink;
+
+   background-color: white;
+
+   text-align: center;
+
+ }
+
+
+ body{
+
+ background-color: pink;
+
+ font-family: "Arial", Times, serif;
+
+ border: 2px solid white;
+
+ padding: 1em;
+
+ margin: 1em;
+
+ }
+
+ button{
+
+      background-color: white;
+
+      color: Pink;
+
+     border: 2px solid Pink;
+
+    }
